@@ -1,0 +1,10 @@
+﻿  Game.cpp
+E:\uni\project1\EntregaFinal\src\Game.h(46,23): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "src/Game.cpp")
+  
+  Generando código
+  3 of 804 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Vikings.vcxproj -> E:\uni\project1\EntregaFinal\x64\Release\Vampire Killer.exe

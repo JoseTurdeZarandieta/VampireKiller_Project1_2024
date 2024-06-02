@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (Vikings.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Game.cpp
+E:\uni\project1\EntregaFinal\src\Game.h(46,23): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "src/Game.cpp")
+  
+  Vikings.vcxproj -> E:\uni\project1\EntregaFinal\x64\Debug\Vampire Killer.exe
